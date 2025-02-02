@@ -1,0 +1,101 @@
+Accident_ID,Latitude,Longitude,Time_of_Day,Weather,Road_Condition
+1,13.05,80.25,Morning,Clear,Dry
+2,13.06,80.26,Afternoon,Rainy,Wet
+3,13.07,80.27,Evening,Foggy,Icy
+4,13.08,80.28,Night,Cloudy,Under Construction
+5,13.09,80.29,Morning,Clear,Dry
+6,13.100000000000001,80.3,Afternoon,Rainy,Wet
+7,13.110000000000001,80.31,Evening,Foggy,Icy
+8,13.120000000000001,80.32,Night,Cloudy,Under Construction
+9,13.13,80.33,Morning,Clear,Dry
+10,13.14,80.34,Afternoon,Rainy,Wet
+11,13.05,80.25,Evening,Foggy,Icy
+12,13.06,80.26,Night,Cloudy,Under Construction
+13,13.07,80.27,Morning,Clear,Dry
+14,13.08,80.28,Afternoon,Rainy,Wet
+15,13.09,80.29,Evening,Foggy,Icy
+16,13.100000000000001,80.3,Night,Cloudy,Under Construction
+17,13.110000000000001,80.31,Morning,Clear,Dry
+18,13.120000000000001,80.32,Afternoon,Rainy,Wet
+19,13.13,80.33,Evening,Foggy,Icy
+20,13.14,80.34,Night,Cloudy,Under Construction
+21,13.05,80.25,Morning,Clear,Dry
+22,13.06,80.26,Afternoon,Rainy,Wet
+23,13.07,80.27,Evening,Foggy,Icy
+24,13.08,80.28,Night,Cloudy,Under Construction
+25,13.09,80.29,Morning,Clear,Dry
+26,13.100000000000001,80.3,Afternoon,Rainy,Wet
+27,13.110000000000001,80.31,Evening,Foggy,Icy
+28,13.120000000000001,80.32,Night,Cloudy,Under Construction
+29,13.13,80.33,Morning,Clear,Dry
+30,13.14,80.34,Afternoon,Rainy,Wet
+31,13.05,80.25,Evening,Foggy,Icy
+32,13.06,80.26,Night,Cloudy,Under Construction
+33,13.07,80.27,Morning,Clear,Dry
+34,13.08,80.28,Afternoon,Rainy,Wet
+35,13.09,80.29,Evening,Foggy,Icy
+36,13.100000000000001,80.3,Night,Cloudy,Under Construction
+37,13.110000000000001,80.31,Morning,Clear,Dry
+38,13.120000000000001,80.32,Afternoon,Rainy,Wet
+39,13.13,80.33,Evening,Foggy,Icy
+40,13.14,80.34,Night,Cloudy,Under Construction
+41,13.05,80.25,Morning,Clear,Dry
+42,13.06,80.26,Afternoon,Rainy,Wet
+43,13.07,80.27,Evening,Foggy,Icy
+44,13.08,80.28,Night,Cloudy,Under Construction
+45,13.09,80.29,Morning,Clear,Dry
+46,13.100000000000001,80.3,Afternoon,Rainy,Wet
+47,13.110000000000001,80.31,Evening,Foggy,Icy
+48,13.120000000000001,80.32,Night,Cloudy,Under Construction
+49,13.13,80.33,Morning,Clear,Dry
+50,13.14,80.34,Afternoon,Rainy,Wet
+51,13.05,80.25,Evening,Foggy,Icy
+52,13.06,80.26,Night,Cloudy,Under Construction
+53,13.07,80.27,Morning,Clear,Dry
+54,13.08,80.28,Afternoon,Rainy,Wet
+55,13.09,80.29,Evening,Foggy,Icy
+56,13.100000000000001,80.3,Night,Cloudy,Under Construction
+57,13.110000000000001,80.31,Morning,Clear,Dry
+58,13.120000000000001,80.32,Afternoon,Rainy,Wet
+59,13.13,80.33,Evening,Foggy,Icy
+60,13.14,80.34,Night,Cloudy,Under Construction
+61,13.05,80.25,Morning,Clear,Dry
+62,13.06,80.26,Afternoon,Rainy,Wet
+63,13.07,80.27,Evening,Foggy,Icy
+64,13.08,80.28,Night,Cloudy,Under Construction
+65,13.09,80.29,Morning,Clear,Dry
+66,13.100000000000001,80.3,Afternoon,Rainy,Wet
+67,13.110000000000001,80.31,Evening,Foggy,Icy
+68,13.120000000000001,80.32,Night,Cloudy,Under Construction
+69,13.13,80.33,Morning,Clear,Dry
+70,13.14,80.34,Afternoon,Rainy,Wet
+71,13.05,80.25,Evening,Foggy,Icy
+72,13.06,80.26,Night,Cloudy,Under Construction
+73,13.07,80.27,Morning,Clear,Dry
+74,13.08,80.28,Afternoon,Rainy,Wet
+75,13.09,80.29,Evening,Foggy,Icy
+76,13.100000000000001,80.3,Night,Cloudy,Under Construction
+77,13.110000000000001,80.31,Morning,Clear,Dry
+78,13.120000000000001,80.32,Afternoon,Rainy,Wet
+79,13.13,80.33,Evening,Foggy,Icy
+80,13.14,80.34,Night,Cloudy,Under Construction
+81,13.05,80.25,Morning,Clear,Dry
+82,13.06,80.26,Afternoon,Rainy,Wet
+83,13.07,80.27,Evening,Foggy,Icy
+84,13.08,80.28,Night,Cloudy,Under Construction
+85,13.09,80.29,Morning,Clear,Dry
+86,13.100000000000001,80.3,Afternoon,Rainy,Wet
+87,13.110000000000001,80.31,Evening,Foggy,Icy
+88,13.120000000000001,80.32,Night,Cloudy,Under Construction
+89,13.13,80.33,Morning,Clear,Dry
+90,13.14,80.34,Afternoon,Rainy,Wet
+91,13.05,80.25,Evening,Foggy,Icy
+92,13.06,80.26,Night,Cloudy,Under Construction
+93,13.07,80.27,Morning,Clear,Dry
+94,13.08,80.28,Afternoon,Rainy,Wet
+95,13.09,80.29,Evening,Foggy,Icy
+96,13.100000000000001,80.3,Night,Cloudy,Under Construction
+97,13.110000000000001,80.31,Morning,Clear,Dry
+98,13.120000000000001,80.32,Afternoon,Rainy,Wet
+99,13.13,80.33,Evening,Foggy,Icy
+100,13.14,80.34,Night,Cloudy,Under Construction
